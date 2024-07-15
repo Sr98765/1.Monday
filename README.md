@@ -1,2 +1,2 @@
 # 1.Monday
-strapi
+strapi with landing page as example
